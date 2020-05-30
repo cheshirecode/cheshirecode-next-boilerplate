@@ -45,7 +45,7 @@
     "svg-sprite-loader": "^5.0.0",
     "unstated": "^2.1.1",
     "unstated-debug": "^0.3.0",
-    "snyk": "^1.279.1"
+    "snyk": "^1.290.1"
   },
   "devDependencies": {
     "@zeit/next-bundle-analyzer": "^0.1.2",
